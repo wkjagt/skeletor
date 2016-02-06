@@ -4,7 +4,7 @@
   "description": "Skeleton app using babel, react, and webpack",
   "main": "index.js",
   "scripts": {
-    "server": "webpack-dev-server --progress --colors"
+    "start": "webpack-dev-server --progress --colors"
   },
   "author": "Tom Burns <tom@shopify.com> (https://burnsmod.com)",
   "license": "MIT",
